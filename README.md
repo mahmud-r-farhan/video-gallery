@@ -6,7 +6,7 @@ A sleek, modern, and responsive video gallery player built with **Next.js**, **F
 
 * 🎥 Responsive video gallery with **lazy loading**
 * 🎨 Smooth **animations and transitions**
-* 🔍 **Category-based filtering** for easy browsing
+* 🔍 **Category-based filtering & Search** for easy browsing
 * ⌨️ **Keyboard navigation** support
 * 📱 Fully **mobile-friendly** design
 * 🖼️ **Fallback images** for broken or missing thumbnails
