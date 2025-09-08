@@ -1,6 +1,6 @@
 # 📽️ Video Gallery Player
 
-A sleek, modern, and responsive video gallery player built with **Next.js**, **Framer Motion**, and **Tailwind CSS**.
+A sleek, modern, and responsive video gallery player built with **React**, **Framer Motion**, and **Tailwind CSS**.
 
 ## ✨ Features
 
