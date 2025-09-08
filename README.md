@@ -12,6 +12,9 @@ A sleek, modern, and responsive video gallery player built with **Next.js**, **F
 * 🖼️ **Fallback images** for broken or missing thumbnails
 * ♿ **Accessibility**-friendly interactions
 
+![Preview](public/preview1.png "Preview")
+![Preview](public/preview2.png "Preview")
+
 ## 🚀 Quick Start
 
 ```bash
@@ -35,3 +38,5 @@ npm run dev
 > **Feel free to contact me — I’d be happy to help!**
 
 ---
+
+Mail: dev@devplus.fun

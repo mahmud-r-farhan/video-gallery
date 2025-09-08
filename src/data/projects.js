@@ -18,12 +18,12 @@ export const categories = [
 ];
 
 export const projects = [
-  {
+{
     id: 1,
     title: "Cinematic Journey",
     category: "film",
     thumbnailUrl: "https://img.freepik.com/premium-photo/professional-cinema-camera-recording-commercial-studio_237404-9535.jpg",
-    videoUrl: "https://www.youtube.com/embed/8QCK_qEp_PI?si=siUiWFoitgtPNrfK",
+    videoUrl: "https://www.youtube.com/embed/EngW7tLk6R8?si=JqVwUbeK03kWJPcE",
     description: "A breathtaking visual narrative exploring the depths of human emotion through stunning cinematography and compelling storytelling.",
     client: "Independent Film",
     director: "Alex Rodriguez",
@@ -39,7 +39,7 @@ export const projects = [
     title: "Brand Vision",
     category: "commercial",
     thumbnailUrl: "https://images.unsplash.com/photo-1551269901-5c5e14c25df7?w=800&h=600&fit=crop",
-    videoUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    videoUrl: "https://www.youtube.com/embed/D0UnqGm_miA?si=0f0PwzfJNJ-CWQpq",
     description: "A dynamic commercial piece that captures the essence of modern lifestyle and brand identity.",
     client: "TechCorp Inc.",
     director: "Sarah Chen",
@@ -55,7 +55,7 @@ export const projects = [
     title: "Documentary Truth",
     category: "documentary",
     thumbnailUrl: "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&h=600&fit=crop",
-    videoUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    videoUrl: "https://www.youtube.com/embed/Ig49nBiG_vY?si=KkS5bhBhaJJpjGKP",
     description: "An intimate documentary exploring real stories and authentic human experiences.",
     client: "National Geographic",
     director: "Michael Torres",
@@ -71,7 +71,7 @@ export const projects = [
     title: "Musical Harmony",
     category: "music",
     thumbnailUrl: "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=800&h=600&fit=crop",
-    videoUrl: "https://res.cloudinary.com/dxh3gzo3p/video/upload/v1748594449/SnapSave_App_8584206218347253_1080p_zl2qnq.mp4",
+    videoUrl: "https://www.youtube.com/embed/u_sIfs7Yom4?si=MOYOivOMl5mAc-wk",
     description: "A vibrant music video that blends visual artistry with rhythmic storytelling.",
     client: "Universal Music",
     director: "Emma Johnson",
@@ -86,8 +86,8 @@ export const projects = [
     id: 5,
     title: 'Tuscany Wedding Trailer | Emma & James',
     category: 'wedding',
-    thumbnailUrl: 'https://i.ytimg.com/vi/fjFB3B16cAo/hq720.jpg',
-    videoUrl: 'https://www.youtube.com/embed/fjFB3B16cAo?si=YCDbjtRmYMXyKuwq',
+    thumbnailUrl: 'https://t3.ftcdn.net/jpg/01/65/52/08/360_F_165520839_6E1bLjjMeUEYqdiyKgerqLPiKUDsMHgI.jpg',
+    videoUrl: 'https://www.youtube.com/embed/rkpzYNB6xks?si=0ukSpD6me3CYdRiY',
     description: 'A cinematic trailer of Emma and James’s wedding in the Tuscan hills—pure romance, festivity, and family love.',
     client: 'Emma & James',
     director: 'Willow Tree Films',
